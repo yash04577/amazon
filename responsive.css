@@ -1,0 +1,46 @@
+@media (max-width: 480px) {
+
+    .quick-catagorie-container{
+        overflow: scroll;
+    }
+
+    .row{
+        flex-flow: column;
+    }
+
+    .card{
+        width: 100%;
+    }
+
+    .mini-card{
+        width: 40%;
+    }
+
+    .left-nav-bar{
+        width: 50%;
+    }
+
+    .right-nav-bar{
+        display: none;
+    }
+
+    .address-container{
+        display: none;
+    }
+
+    .center-nav-bar{
+        width: 55vw;
+    }
+
+    .center-nav-bar form{
+        height: 40%;
+    }
+
+    .quick-catagorie-container ul li a{
+        display: block ruby;
+    }
+
+    .horizon-remover{
+        justify-content: flex-start;
+    }
+}
