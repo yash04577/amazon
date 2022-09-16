@@ -138,7 +138,7 @@ nav div{
 
 .slider-row{
     overflow: scroll;
-    margin: 10px 27px;
+    margin: 10px 10px;
     scrollbar-width: none;
 }
 .slider-card-container{
